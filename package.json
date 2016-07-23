@@ -1,0 +1,20 @@
+{
+  "name": "joy-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bem2/joy-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bem2/joy-app/issues"
+  },
+  "homepage": "https://github.com/bem2/joy-app#readme"
+}

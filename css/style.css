@@ -1,0 +1,26 @@
+
+h3.logoTtl{
+    display: inline-block;
+    color:white;
+    background:orange;
+    border-radius: 50%;
+    padding:0px 20px;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 20px;
+}
+
+.filter-list {
+  margin: auto;
+  width: 300px;
+  background: #3498db;
+  border-radius: 5px;
+  border: 1px solid darken(#3498db, 20%);
+
+}
